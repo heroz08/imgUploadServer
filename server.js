@@ -25,7 +25,7 @@ app.use(koabody({
 
 
 app.use(async (ctx, next) => {
-  next();
+  await next();
   console.log(ctx.path)
 })
 
