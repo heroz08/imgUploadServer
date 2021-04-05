@@ -9,7 +9,7 @@
   "author": "hzhyang",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fs": "^0.0.1-security",
     "koa": "^2.11.0",
     "koa-body": "^4.1.1",
